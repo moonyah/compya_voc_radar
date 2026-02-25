@@ -1,6 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-data/
-reports/
-.DS_Store
